@@ -26,7 +26,7 @@ html {
    }
  
  h2#location-name {
-     margin: 0;
+     margin-top: 0;
      padding:0;
      color: white; 
      background: #f72f2f;
@@ -38,22 +38,26 @@ html {
    }
  
  body {
-    margin: 5;
+    margin: 3;
     border: 3px solid #f72f2f;
  }
  
  h2#section-title {
+     line-height: 1.5;
      color: white; 
      background: #f27474;
-     font-size: 27px;
+     font-size: 40px;
      font-family: helvetica;
      font-weight: bold;
      font-style: none;
      text-align: center;
-   
+     margin-top: 0;
+     margin-bottom: 0;
+     
  }
  
  ul#list-section{
+   margin-top: 0;
    background: #c9c6a7;
    color: white;
    padding: 0;
